@@ -25,6 +25,7 @@ gem "uglifier"
 gem "railties"
 gem "rake", "~> 10.5.0"
 gem "devise"
+gem "figaro"
 
 group :development do
   gem "quiet_assets"
